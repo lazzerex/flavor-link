@@ -78,8 +78,8 @@ Before running this application, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/recipe-app.git
-   cd recipe-app
+   git clone https://github.com/lazzerex/flavor-link.git
+   cd flavor-link
    ```
 
 2. **Install dependencies**
@@ -307,7 +307,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Project Maintainer**: Lazzerex
+
 **Email**: nambinh236@gmail.com
+
 **GitHub**: [@lazzerex](https://github.com/lazzerex)  
 
 ---
