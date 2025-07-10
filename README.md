@@ -2,6 +2,9 @@
 
 A modern, feature-rich recipe discovery and cooking companion app built with Flutter. This application provides an intuitive interface for browsing, searching, and cooking with a curated collection of recipes from professional chefs.
 
+![image](https://github.com/user-attachments/assets/10bb02dc-ee5d-4a63-8c66-770f63c5abb6)
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -47,6 +50,15 @@ A modern, feature-rich recipe discovery and cooking companion app built with Flu
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/73dd49f7-5a97-4afb-baf0-0604edf972f3)
+
+![image](https://github.com/user-attachments/assets/c029c6e0-8d7e-466d-bb28-24acd3a66533)
+
+![image](https://github.com/user-attachments/assets/3b7a8ed0-458a-4527-a715-d59ec1d99070)
+
+![image](https://github.com/user-attachments/assets/a403a09e-c095-43b4-a7c9-ba22196f52c1)
+
+![image](https://github.com/user-attachments/assets/573f1897-86bd-43b6-bf97-d71a6447575b)
 
 
 ## Getting Started
