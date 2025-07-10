@@ -1,0 +1,30 @@
+# Flutter/Dart
+*.dart linguist-language=Dart
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+
+# Generated files (exclude from language stats)
+**/generated_plugin_registrant.dart linguist-generated=true
+**/GeneratedPluginRegistrant.* linguist-generated=true
+**/.flutter-plugins linguist-generated=true
+**/.flutter-plugins-dependencies linguist-generated=true
+
+# Build outputs
+build/ linguist-generated=true
+.dart_tool/ linguist-generated=true
+
+# Web build files (if you don't want them counted)
+web/index.html linguist-vendored=true
+web/manifest.json linguist-vendored=true
+web/favicon.png linguist-vendored=true
+
+# iOS/Android platform files
+ios/ linguist-vendored=true
+android/ linguist-vendored=true
+windows/ linguist-vendored=true
+macos/ linguist-vendored=true
+linux/ linguist-vendored=true
+
+# Documentation
+*.md linguist-documentation=true
+README.md linguist-documentation=true
