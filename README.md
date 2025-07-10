@@ -12,7 +12,6 @@ A modern, feature-rich recipe discovery and cooking companion app built with Flu
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Architecture](#architecture)
 - [Contributing](#contributing)
